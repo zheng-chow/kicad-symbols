@@ -252,6 +252,11 @@ K current sense transformer
 F https://www.coilcraft.com/pdfs/cst.pdf
 $ENDCMP
 #
+$CMP H1102NL
+D Ethernet LAN 10/100 Base-Tx Transformer with Center Taps
+K single port ethernet transformer poe center-tap
+$ENDCMP
+#
 $CMP LL1587
 D Lundahl Transformers, Microphone Transformer
 K microphone transformer

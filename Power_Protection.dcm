@@ -42,6 +42,11 @@ K usb esd protection suppression transient
 F https://www.mccsemi.com/pdf/Products/ESDLC5V0PB8(DFN3810-9)-A.pdf
 $ENDCMP
 #
+$CMP GDT
+D Gas Discharge Tube
+K GDT Protect
+$ENDCMP
+#
 $CMP IP3319CX6
 D Single channel common mode filter with integrated ESD protection network
 K common mode filter ESD protection

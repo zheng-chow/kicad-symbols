@@ -142,4 +142,9 @@ K SRAM MEMORY
 F http://www.issi.com/WW/pdf/61-64C5128AL.pdf
 $ENDCMP
 #
+$CMP K4S561632J
+D 256M – (16M x 16 bit) Synchronous DRAM (SDRAM), TSOP II 54pin
+K SDRAM Synchronus DRAM PC166 PC143 256Mb 64Mbx4 MEMORY
+$ENDCMP
+#
 #End Doc Library

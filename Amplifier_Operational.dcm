@@ -962,13 +962,13 @@ $ENDCMP
 #
 $CMP OPA1692xD
 D Dual SoundPlus Low Power, Low Noise & Low Distortion Audio Operational Amplifiers, SOIC-8
-K VFA opamp 
+K VFA opamp
 F https://www.ti.com/lit/ds/symlink/opa1692.pdf
 $ENDCMP
 #
 $CMP OPA1692xDGK
 D Dual SoundPlus Low Power, Low Noise & Low Distortion Audio Operational Amplifiers, VSSOP-8
-K VFA opamp 
+K VFA opamp
 F https://www.ti.com/lit/ds/symlink/opa1692.pdf
 $ENDCMP
 #
@@ -1396,6 +1396,16 @@ $CMP SA5534
 D Single Low-Noise Operational Amplifiers, DIP-8/SOIC-8
 K single opamp
 F http://www.ti.com/lit/ds/symlink/ne5534.pdf
+$ENDCMP
+#
+$CMP SGM8051XN5
+D 250MHz, Rail-to-Rail Output, CMOS Operational Amplifiers.
+K 250MHz opamp
+$ENDCMP
+#
+$CMP SGM8551XS8G
+D Single-Supply, Single Rail-to-Rail I/O Precision Operational Amplifier.
+K precision opamp
 $ENDCMP
 #
 $CMP THS3491xDDA
