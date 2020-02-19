@@ -375,6 +375,11 @@ K UART I2C/SPI 64B FIFO IrDA SIR
 F https://www.nxp.com/docs/en/data-sheet/SC16IS740_750_760.pdf
 $ENDCMP
 #
+$CMP SC16IS752IPW
+D Dual UART with I2C-bus/SPI interface, 64 bytes of transmit and receive FIFOs, IrDA SIR build-in support.
+K I2C SPI UART
+$ENDCMP
+#
 $CMP SN65LBC176D
 D Differential bus transceiver, SOIC-8
 K Differential bus transceiver

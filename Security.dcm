@@ -18,4 +18,10 @@ K Cryptographic coprocessor
 F http://ww1.microchip.com/downloads/en/DeviceDoc/ATECC608A-CryptoAuthentication-Device-Summary-Data-Sheet-DS40001977B.pdf
 $ENDCMP
 #
+$CMP ATSHA204A-SH
+D  ATSHA204A Microchip CryptoAuthentication, SOIC-8
+K cryptographic security SHA I2C
+F http://ww1.microchip.com/downloads/en/DeviceDoc/ATSHA204A-Data-Sheet-40002025A.pdf
+$ENDCMP
+#
 #End Doc Library

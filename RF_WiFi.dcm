@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP6212
+D WiFi+Bluetooth 4.0+FM RX SIP Module.
+K WiFi IEEE802.11 b/g/n
+$ENDCMP
+#
 $CMP HF-A11-SMT
 D WiFi IEEE802.11b/g/n with Ethernet Module, UART, GPIO
 K WiFi IEEE802.11 b/g/n
