@@ -6,6 +6,16 @@ K hdmi
 F https://www.analog.com/media/en/technical-documentation/data-sheets/adv7611.pdf
 $ENDCMP
 #
+$CMP IT6610FN
+D HDMI Transmitter, RGB, I2S compliant.
+K HDMI
+$ENDCMP
+#
+$CMP Sil9022A
+D HDMI Transmitter, RGB/YUV/BT656, I2S compliant.
+K HDMI
+$ENDCMP
+#
 $CMP TPD12S520DBT
 D HDMI Receiver Port Protection and Interface Device, TSSOP-38
 K hdmi

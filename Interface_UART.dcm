@@ -225,12 +225,6 @@ K rs232 uart transceiver line-driver
 F http://www.ti.com/lit/ds/symlink/max232.pdf
 $ENDCMP
 #
-$CMP MAX3051
-D High-Speed CAN Transceiver, 1Mbps, 3.3V supply
-K High-Speed CAN Transceiver
-F http://datasheets.maximintegrated.com/en/ds/MAX3051.pdf
-$ENDCMP
-#
 $CMP MAX3072E
 D +3.3V, ±15kV ESD-Protected, Fail-Safe, Hot-Swap, RS-485/RS-422 Transceivers, SOIC-8
 K Low Power Half-Duplex RS-485 RS-422 Transceiver
@@ -492,6 +486,11 @@ $CMP THVD1451D
 D RS485 transceiver, 3.3-V to 5-V, 18-kV IEC ESD Protection, SOIC-8
 K rs485 transceiver line driver
 F http://www.ti.com/lit/ds/symlink/thvd1451.pdf
+$ENDCMP
+#
+$CMP WK2204
+D Quad UART with UART/I2C/SPI interface, 245 Bytes.
+K UART
 $ENDCMP
 #
 $CMP Z8530

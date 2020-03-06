@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP T30X
+D 128MB DDR SIP, Single 1.2GHz MIPS XBurst Core, H.265 Encoder inside.
+K Ingenic MIPS
+F http://www.ingenic.com.cn/?product/id/26.html
+$ENDCMP
+#
+#End Doc Library

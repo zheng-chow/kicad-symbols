@@ -144,6 +144,12 @@ K sensor magnetic hall position rotation spi
 F https://ams.com/documents/20143/36005/AS5055A_DS000304_2-00.pdf
 $ENDCMP
 #
+$CMP AS5600
+D Magnetic position sensor, 12-bit, I2C Interface, SOP-8
+K sensor magnetic hall position rotation iic i2c
+F https://ams.com/documents/20143/36005/AS5048_DS000298_4-00.pdf
+$ENDCMP
+#
 $CMP BMM150
 D Geomagnetic Sensor, WLCSP-12
 K BOSH Geomagnetic Sensor

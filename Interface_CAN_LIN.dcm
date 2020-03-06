@@ -24,6 +24,12 @@ K High-Speed CAN Transceiver
 F https://www.analog.com/media/en/technical-documentation/data-sheets/2875f.pdf
 $ENDCMP
 #
+$CMP MAX3051EKA
+D High-Speed CAN Transceiver, 1Mbps, 3.3V supply, slope control mode, shutdown mode, SOT-23-8
+K High-Speed CAN Transceiver
+F http://www.ti.com/lit/ds/symlink/tcan337.pdf
+$ENDCMP
+#
 $CMP MCP2021A-xxxxMD
 D LIN Transceiver with Voltage Regulator, 3.3V/5V, DFN-8
 K LIN Transceiver regulator
