@@ -5664,4 +5664,9 @@ K SMPS Controller with MOSFET 12W AC-DC
 F http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00231127.pdf
 $ENDCMP
 #
+$CMP XL6019E1
+D 220KHz, 60V, 5A. BOOST, BOOST/BUCK Convertor, TO-263
+K BOOST Voltage Regulator
+$ENDCMP
+#
 #End Doc Library

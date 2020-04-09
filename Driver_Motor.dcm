@@ -30,6 +30,18 @@ K bldc mosfet-driver hall-sensor
 F http://www.ti.com/lit/ds/symlink/drv8308.pdf
 $ENDCMP
 #
+$CMP DRV8313PWP
+D Triple 1/2 H-Bridge, 2.5A, Low Voltage, PWM input, TSSOP-28
+K H-bridge motor driver
+F http://www.ti.com/lit/ds/symlink/drv8313.pdf
+$ENDCMP
+#
+$CMP DRV8313RHHR
+D Triple 1/2 H-Bridge, 2.5A, Low Voltage, PWM input, VQFN-N36
+K H-bridge motor driver
+F http://www.ti.com/lit/ds/symlink/drv8313.pdf
+$ENDCMP
+#
 $CMP DRV8662
 D Piezo Haptic Driver with Integrated Boost Converter
 K piezo driver boost

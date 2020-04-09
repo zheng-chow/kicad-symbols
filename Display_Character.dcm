@@ -372,6 +372,11 @@ K display LED 7-segment
 F https://docs.broadcom.com/docs/AV02-2553EN
 $ENDCMP
 #
+$CMP HSN-2822
+D Double 7 segment Red LED common cathode SMD.
+K display LED 7-segment
+$ENDCMP
+#
 $CMP HY1602E
 D LCD 16x2 Alphanumeric 16pin Blue/Yellow/Green Backlight, 8bit parallel, 5V VDD
 K display LCD 7-segment

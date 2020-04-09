@@ -12,6 +12,12 @@ K N-Channel Switching MOSFET
 F https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf
 $ENDCMP
 #
+$CMP 2N7002DW
+D 0.12A Id, 60V Vds, Dual N-Channel MOSFET, 7.5Ohm Ron, SC-70-6
+K Dual N-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/FD/FDG1024NZ.pdf
+$ENDCMP
+#
 $CMP 2N7002E
 D 0.24A Id, 60V Vds, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET
@@ -456,6 +462,12 @@ K N-Channel MOSFET
 F https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf
 $ENDCMP
 #
+$CMP BSS138W
+D 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-323
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/Infineon-BSS214NW-DS-v02_02-en.pdf?fileId=db3a30431b3e89eb011b695aebc01bde
+$ENDCMP
+#
 $CMP BSS214NW
 D 20V Vds, 1.5A Id, N-Channel MOSFET, SOT-323
 K N-Channel MOSFET
@@ -472,6 +484,11 @@ $CMP BSS84
 D -0.13A Id, -50V Vds, P-Channel MOSFET, SOT-23
 K P-Channel MOSFET
 F http://assets.nexperia.com/documents/data-sheet/BSS84.pdf
+$ENDCMP
+#
+$CMP BSS84W
+D -0.13A Id, -50V Vds, P-Channel MOSFET, SOT-23
+K P-Channel MOSFET
 $ENDCMP
 #
 $CMP BUK7M10-40EX
@@ -2514,6 +2531,12 @@ K N-Channel MOSFET
 F https://www.vishay.com/docs/71432/si7450dp.pdf
 $ENDCMP
 #
+$CMP Si7617DN
+D -35A Id, -30V Vds, P-Channel MOSFET, PowerPAK 1212-8 Single
+K P-Channel MOSFET
+F http://www.vishay.com/docs/65164/si7617dn.pdf
+$ENDCMP
+#
 $CMP SiA449DJ
 D -12A Id, -30V Vds, P-Channel MOSFET, PowerPAK SC70-6
 K P-Channel MOSFET
@@ -2524,6 +2547,12 @@ $CMP SiA453EDJ
 D -10A Id, -30V Vds, P-Channel MOSFET
 K P-Channel MOSFET
 F http://www.vishay.com/docs/62864/sia453edj.pdf
+$ENDCMP
+#
+$CMP SiS412DN
+D 12A Id, 30V Vds, N-Channel MOSFET, PowerPAK 1212-8 Single
+K N-Channel MOSFET
+F http://www.vishay.com/docs/69006/sis412dn.pdf
 $ENDCMP
 #
 $CMP SiS415DNT

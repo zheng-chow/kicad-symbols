@@ -83,6 +83,16 @@ K CMOS Analog Switch
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG733_734.pdf
 $ENDCMP
 #
+$CMP BCT4699ETE
+D Quad SPDT Analog Switch, Low On-Resistance, Low Voltage, TQFN-16L.
+K CMOS SPDT
+$ENDCMP
+#
+$CMP BCT642
+D Low power, three-port, high-speed MIPI switch.
+K MIPI switch
+$ENDCMP
+#
 $CMP CD4051B
 D CMOS single 8-channel analog multiplexer demultiplexer, TSSOP-16/DIP-16/SOIC-16
 K analog switch selector multiplexer
@@ -591,6 +601,12 @@ $CMP NC7SB3157P6X
 D Single SPDT Low-Voltage Analog Switch or 2:1 Multiplexer/De-Multiplexer Bus Switch, 10Ohm Ron, SC-70-6
 K CMOS Analog Switch
 F https://www.fairchildsemi.com/datasheets/NC/NC7SB3157.pdf
+$ENDCMP
+#
+$CMP SGM3001
+D Single SPDT Analog Switch, Low On-Resistance, Low Voltage, SC70-6.
+K CMOS SPDT
+F http://cn.sg-micro.com/uploads/soft/20190826/1566804352.pdf
 $ENDCMP
 #
 $CMP SN74CBT3253

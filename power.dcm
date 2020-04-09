@@ -474,6 +474,11 @@ D Power symbol creates a global label with name "VPP"
 K power-flag
 $ENDCMP
 #
+$CMP VRTC10
+D Power symbol creates a global label with name "VRTC"
+K power-flag
+$ENDCMP
+#
 $CMP VS
 D Power symbol creates a global label with name "VS"
 K power-flag

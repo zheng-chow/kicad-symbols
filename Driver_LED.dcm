@@ -276,6 +276,11 @@ K LED driver
 F https://www.monolithicpower.com/pub/media/document/MPQ2483_r1.05.pdf
 $ENDCMP
 #
+$CMP NU5011A30
+D 15-60mA Constant Current LED Driver.
+K LED Driver
+$ENDCMP
+#
 $CMP PCA9635
 D 16-bit PWM Fm+ I2C-bus LED driver, TSSOP-28
 K led pwm rgb rgba

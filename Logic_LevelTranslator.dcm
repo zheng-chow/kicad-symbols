@@ -42,6 +42,12 @@ K Level-Shifter CMOS-TTL-Translation
 F http://www.onsemi.com/pub/Collateral/NLSV2T244-D.PDF
 $ENDCMP
 #
+$CMP SN74AUP1G79DCK
+D 1-Bit Single Postive-Edge-Triggered D-Type Flip-Flop, SC-70
+K D
+F http://www.ti.com/lit/ds/symlink/sn74aup1t34.pdf
+$ENDCMP
+#
 $CMP SN74AUP1T34DCK
 D 1-Bit Unidirectional Voltage-Level Translator, SC-70
 K Noninverting

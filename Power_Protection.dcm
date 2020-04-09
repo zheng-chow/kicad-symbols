@@ -47,6 +47,11 @@ D Gas Discharge Tube
 K GDT Protect
 $ENDCMP
 #
+$CMP GDT_Feedthrough
+D Gas Discharge Tube, Feedthrough.
+K GDT Protect
+$ENDCMP
+#
 $CMP IP3319CX6
 D Single channel common mode filter with integrated ESD protection network
 K common mode filter ESD protection

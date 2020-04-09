@@ -558,6 +558,12 @@ K diode Schottky
 F www.st.com/resource/en/datasheet/bat48.pdf
 $ENDCMP
 #
+$CMP BAT54
+D Schottky barrier diode, SOT-23
+K schottky diode
+F https://assets.nexperia.com/documents/data-sheet/BAT54_SER.pdf
+$ENDCMP
+#
 $CMP BAT54A
 D schottky barrier diode
 K schottky diode

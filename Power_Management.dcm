@@ -522,6 +522,11 @@ K Automatic Capacitor Discarger
 F https://ac-dc.power.com/sites/default/files/product_document/data_sheet/capzero-3_family_datasheet.pdf
 $ENDCMP
 #
+$CMP EA3056QDR
+D 3CH DC/DC + 1CH LDO PMIC
+K PMIC
+$ENDCMP
+#
 $CMP HF81
 D X capacitor bleeder, SOIC-8
 K X capacitor discharge
