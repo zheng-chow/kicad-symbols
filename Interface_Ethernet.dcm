@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DM9000A
+D 10/100Mb Ethernet controller.
+K Ethernet controller
+$ENDCMP
+#
 $CMP DP83848C
 D MII/RMII Single 10/100Mbps Ethernet Physical Layer Transciever, LQFP-48
 K Ethernet PHY MII RMII 10/100Mpbs

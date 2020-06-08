@@ -336,6 +336,12 @@ K Single Pole Relay SPDT
 F http://hiqsdr.com/images/3/3e/Axicom-HF3.pdf
 $ENDCMP
 #
+$CMP HFD31_5L2
+D Compact, Industry-Standard 2-pole relay, designed to switch 2A Signal Loads, Double-winding Latching
+K Miniature Relay Dual Pole DPDT HFD
+F http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6s.pdf
+$ENDCMP
+#
 $CMP IM00
 D IM Relay, standard version, monostable, switching current 2/5A, power 60W/62.5VA, voltage 220VDC/250VAC, THT package
 K relay monostable

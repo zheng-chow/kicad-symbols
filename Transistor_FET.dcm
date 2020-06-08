@@ -1655,6 +1655,12 @@ K Dual N-Channel MOSFET
 F http://www.onsemi.com/pub/Collateral/FDS6930B-D.PDF
 $ENDCMP
 #
+$CMP FDS86242
+D 4.1A Id, 150V Vds,  N-Channel MOSFET, 67mOhm Ron, SOIC-8
+K N-Channel MOSFET
+F https://www.onsemi.cn/pub/Collateral/FDS86242-D.PDF
+$ENDCMP
+#
 $CMP FDS8960C
 D 7A Id, 35V Vds, Dual N and P Channel MOSFET, 24mOhm Ron, 10V Vgs, SO8L
 K Dual N-Channel P-Channel MOSFET

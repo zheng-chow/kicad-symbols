@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HLK-20M12
+D Compact AC/DC board mount power module 20W 12V
+K AC/DC module power supply
+$ENDCMP
+#
 $CMP HLK-PM01
 D Compact AC/DC board mount power module 3W 5V
 K AC/DC module power supply

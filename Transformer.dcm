@@ -252,6 +252,11 @@ K current sense transformer
 F https://www.coilcraft.com/pdfs/cst.pdf
 $ENDCMP
 #
+$CMP DRQ127-470
+D Dual winding, shielded inductor/transformer.
+K Inductor DRQ
+$ENDCMP
+#
 $CMP H1102NL
 D Ethernet LAN 10/100 Base-Tx Transformer with Center Taps
 K single port ethernet transformer poe center-tap

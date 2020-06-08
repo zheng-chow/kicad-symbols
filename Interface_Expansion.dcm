@@ -96,6 +96,12 @@ K I2C Bus Buffer
 F http://www.nxp.com/documents/data_sheet/P82B96.pdf
 $ENDCMP
 #
+$CMP PCA9506DGG
+D 40-bit I2C-bus I/O port with RESET#, OE#, and INT#. in TSSOP-56
+K I2C I/O IO
+F http://www.ti.com/lit/ds/symlink/tca9548a.pdf
+$ENDCMP
+#
 $CMP PCA9516
 D 5 channels I2C Hub, SO/TSSOP16
 K I2C Hub
@@ -145,6 +151,12 @@ F http://www.ti.com/lit/ds/symlink/pca9548a.pdf
 $ENDCMP
 #
 $CMP PCA9548APW
+D Low voltage 8-channel I2C switch with reset, TSSOP-24
+K Low voltage 8-channel I2C switch with reset
+F http://www.ti.com/lit/ds/symlink/pca9548a.pdf
+$ENDCMP
+#
+$CMP PCA9548APW_copy
 D Low voltage 8-channel I2C switch with reset, TSSOP-24
 K Low voltage 8-channel I2C switch with reset
 F http://www.ti.com/lit/ds/symlink/pca9548a.pdf

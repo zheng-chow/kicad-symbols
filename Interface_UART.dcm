@@ -428,6 +428,11 @@ K Differential bus transceiver
 F http://www.ti.com/lit/ds/symlink/sn75lbc176.pdf
 $ENDCMP
 #
+$CMP SP3232EEY
+D 3.0V to 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceivers Using Four 0.1μF External Capacitors
+K rs232 uart transceiver line-driver
+$ENDCMP
+#
 $CMP SP3481CN
 D 3.3V Low Power Half-Duplex RS-485 Transceiver 10Mbps, SOIC-8
 K Low Power Half-Duplex RS-485 Transceiver 10Mbps
